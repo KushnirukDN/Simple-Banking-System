@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple_Banking_System.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple_Banking_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Simple_Banking_System.Problems-Remove_HTML_tags.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Simple_Banking_System.Problems-Remove_HTML_tags.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Simple_Banking_System.Problems-Remove_HTML_tags.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Simple_Banking_System.Problems-Remove_HTML_tags.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Simple_Banking_System.Problems-Remove_HTML_tags.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove HTML tags/Simple_Banking_System.Problems-Remove_HTML_tags.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Simple_Banking_System.Problems-Remove_comments.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Simple_Banking_System.Problems-Remove_comments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Simple_Banking_System.Problems-Remove_comments.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Simple_Banking_System.Problems-Remove_comments.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Simple_Banking_System.Problems-Remove_comments.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove comments/Simple_Banking_System.Problems-Remove_comments.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Simple_Banking_System.Problems-Remove_extra_spaces.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Simple_Banking_System.Problems-Remove_extra_spaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Simple_Banking_System.Problems-Remove_extra_spaces.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Simple_Banking_System.Problems-Remove_extra_spaces.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Simple_Banking_System.Problems-Remove_extra_spaces.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Remove extra spaces/Simple_Banking_System.Problems-Remove_extra_spaces.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Banking System/task/Simple_Banking_System.Simple_Banking_System-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System.util.test.iml" />
+    </modules>
+  </component>
+</project>
